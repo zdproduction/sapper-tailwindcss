@@ -39,7 +39,7 @@
    
    ```bash
    git fetch upstream
-   git merge upstream/main main
+   git merge upstream/master master
    ```
 
 1. Go to your forked repository and press the “New pull request” button.
